@@ -1,3 +1,13 @@
+.completed {
+  text-decoration: line-through;
+}
+
+
+.notCompleted {
+  text-decoration: none;
+}
+
+/*  */
 .App {
   text-align: center;
 }

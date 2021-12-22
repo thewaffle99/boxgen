@@ -4,7 +4,7 @@ const Display = (props) => {
     return(
         <div >
         <div>
-            {props.boxList.map((boxStyle, index) => (
+        {props.boxList.map((boxStyle, index) => (
                 <div key={index} style={boxStyle}>
                 </div>
                 ))
